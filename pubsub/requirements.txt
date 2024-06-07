@@ -1,1 +1,2 @@
 gcloud-aio-auth >= 3.3.0, < 4.0.0
+cryptography>=42.0.8 # not directly required, pinned by Snyk to avoid a vulnerability
